@@ -1,1 +1,77 @@
 # faim16.github.io
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+
+    <title>Narrow Jumbotron Template for Bootstrap</title>
+
+  
+    <link href="../../css/editor.css" rel="stylesheet">
+
+  
+    <link href="narrow-jumbotron.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div class="container">
+      <div class="header clearfix">
+        <nav>
+          <ul class="nav nav-pills float-right">
+            <li class="nav-item">
+              
+            </li>
+            <li class="nav-item">
+              
+            </li>
+            <li class="nav-item">
+              
+            </li>
+          </ul>
+        </nav>
+        <h3 class="text-muted">Fa'im Ardian Syah</h3>
+      <img src="https://cdn1-production-images-kly.akamaized.net/7FrqQNl7apjVHr8VZzP7mt15o_c=/1200x1200/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1439641/original/042027300_1482131661-reddit.jpg" height="128" width="128" style="border: 1px dashed rgb(66, 133, 244);"></div>
+
+      <div class="jumbotron"><h1 class="display-3" style="float: right;"></h1>
+        
+        <p class="lead">Perkenalkan nama saya Fa'im Ardian Syah. saya adalah anak pertama dari 2 bersaudara. saya dulu pernah bersekolah di tk dharma wanita waung, sdn waung, smpn 1 tulangan, dan smk trisakti tulangan setelah itu saya melanjutkan kuliah di universitas muhammadiyah sidoarjo mengambil jurusan teknik elektro<div></div></p>
+        <p></p>
+      </div>
+
+      <div class="row marketing">
+        <div class="col-lg-6">
+          <h4>galery</h4>
+          <p><img src="https://images.unsplash.com/photo-1538991383142-36c4edeaffde?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZnJlZXxlbnwwfHwwfHw%3D&amp;w=1000&amp;q=80" height="128" width="128" style=""><img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1000&amp;q=80" height="128" width="128" style=""><img src="https://images.unsplash.com/photo-1579347380110-d27a8be59b32?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dW5zcGxhc2h8ZW58MHx8MHx8&amp;w=1000&amp;q=80" height="128" width="128" style=""><img src="https://images.unsplash.com/photo-1526760384264-df42881e4383?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHdheXxlbnwwfHwwfHw%3D&amp;w=1000&amp;q=80" height="128" width="128" style=""><img src="https://images.unsplash.com/photo-1569317002804-ab77bcf1bce4?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dW5zcGxhc2h8ZW58MHx8MHx8&amp;w=1000&amp;q=80" height="128" width="128" style=""></p>
+
+          <h4>Contact Me</h4>
+          <p><img src="https://static.republika.co.id/uploads/member/images/news/eondnqxaap.jpg" height="20" width="20" style="">&nbsp;081939820014<div><img src="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/11/03/1037401742.jpg" height="20" width="20" style="">&nbsp;faim_16<br><div><img src="https://www.facebook.com/images/fb_icon_325x325.png" height="20" width="20" style="">&nbsp;Fa'im<br></div></div></p>
+
+          
+          
+        </div>
+
+        <div class="col-lg-6">
+          
+          
+
+          
+          
+
+          
+          
+        </div>
+      </div>
+
+      <footer class="footer">
+        <p contenteditable="true" spellcheckker="false">© Fa'imArdiansyah@2022</p>
+      </footer>
+
+    </div> <!-- /container -->
+  
+
+</body>
+</html>
